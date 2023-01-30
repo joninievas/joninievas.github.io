@@ -1,0 +1,46 @@
+*{
+    color: gray;
+    font-family: 'Montserrat';
+}
+
+#inicio{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 230%;
+    background-color: rgb(219, 219, 219);
+    color: gray;
+}
+
+section{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 125%;
+    background-color: rgb(219, 219, 219);
+    color: gray; 
+}
+
+#foto{
+    height: 257px;
+    width: 1029; 
+    float: right;
+}
+
+
+
+
+
+
